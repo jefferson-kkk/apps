@@ -9,6 +9,8 @@ void main() {
 }
 
 class AppNotas extends StatefulWidget {
+  const AppNotas({super.key});
+
   @override
   _AppNotasState createState() => _AppNotasState();
 }
